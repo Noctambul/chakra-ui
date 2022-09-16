@@ -39,5 +39,6 @@
   },
   "dependencies": {
     "merge-anything": "^5.0.2"
-  }
+  },
+  "clean-package": "../../../clean-package.config.json"
 }

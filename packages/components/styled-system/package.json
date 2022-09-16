@@ -56,5 +56,6 @@
     "benchmark": "node benchmarks/benchmark.js",
     "prepack": "clean-package",
     "postpack": "clean-package restore"
-  }
+  },
+  "clean-package": "../../../clean-package.config.json"
 }
